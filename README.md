@@ -32,7 +32,6 @@ I'm passionate about leveraging data and AI to build impactful solutions. I love
 
 ### 📊 GitHub Stats
 
-![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmmarMandsourwala&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarMandsourwala&layout=compact&theme=tokyonight)
 
 ---
