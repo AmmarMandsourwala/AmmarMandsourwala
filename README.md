@@ -32,7 +32,7 @@ I'm passionate about leveraging data and AI to build impactful solutions. I love
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarMandsourwala&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarMandsourwala&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
