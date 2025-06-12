@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="backimage.png" alt="Ammar Mandsourwala Banner" height="160" width="100%" />
+  <img src="backimage.png" alt="Ammar Mandsourwala Banner" height="200" width="100%" />
 </p>
 
 
