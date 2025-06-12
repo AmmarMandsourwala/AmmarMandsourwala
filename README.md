@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="AmmarMandsourwala/backimage.png" alt="Ammar Mandsourwala Banner" width="100%" />
+</p>
+
+
 # 👋 Hi there, I'm Ammar Mandsourwala!
 
 ### 💡 A Data Science and Machine Learning Enthusiast
