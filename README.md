@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="backimage.png" alt="Ammar Mandsourwala Banner" height="300" width="100%" />
-</p>
+
 
 
 # 👋 Hi there, I'm Ammar Mandsourwala!
